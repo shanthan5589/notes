@@ -1,11 +1,13 @@
 # Computer Languages Notes Repository
 
 ## Python Notes
-1. [Introduction](intro.ipynb)
-2. [Methods](methods.ipynb)
-3. [Essentials](essentials.ipynb)
-4. [Tips](tips.ipynb)
-5. [Extras](extras.ipynb)
+
+1. [Introduction](python/intro.ipynb)
+2. [Methods](python/methods.ipynb)
+3. [Essentials](python/essentials.ipynb)
+4. [Tips](python/tips.ipynb)
+5. [Extras](python/extras.ipynb)
+
 
 Welcome to my **first repository**! This repo contains notes for the programming languages that I’m currently working on.
 
