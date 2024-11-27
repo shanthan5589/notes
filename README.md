@@ -2,7 +2,7 @@
 
 ## Python Notes
 
-1. [Introduction](python/intro.ipynb)
+1. [Introduction](python/[01]intro.ipynb)
 2. [Methods](python/methods.ipynb)
 3. [Essentials](python/essentials.ipynb)
 4. [Tips](python/tips.ipynb)
