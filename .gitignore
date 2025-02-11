@@ -1,1 +1,2 @@
 notes/python/.ipynb_checkpoints/
+echo "*~$*.xlsx" >> .gitignore
