@@ -1,2 +1,71 @@
+# Ignore Jupyter notebook checkpoint directories
 **/.ipynb_checkpoints/
+
+# Ignore Excel temporary files
 *~$*.xlsx
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Ignore Visual Studio Code settings and extensions
+.vscode/
+
+# Ignore Python virtual environments
+venv/
+env/
+.venv/
+
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+*.pyd
+*.pyc~
+*.pyo~
+*.pyd~
+
+# Ignore Python cache directories
+__pycache__/
+
+# Ignore Jupyter notebook metadata
+.ipynb_metadata
+
+# Ignore common IDE and editor files
+.idea/
+.vscode/
+*.sublime-workspace
+*.iml
+
+# Ignore logs
+*.log
+
+# Ignore build artifacts
+build/
+dist/
+*.egg-info/
+
+# Ignore node_modules for Node.js projects
+node_modules/
+
+# Ignore other common temporary files
+*.tmp
+*.bak
+*.swp
+
+# Ignore large data files if any
+*.dat
+*.csv
+*.json
+
+# If you're working with large datasets, consider ignoring them
+data/
+datasets/
+
+# Ignore any other specific files or directories you don't want tracked
+# For example, if you have a directory named 'temp' or 'output'
+temp/
+output/
