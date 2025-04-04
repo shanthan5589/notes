@@ -3,10 +3,10 @@
 ## Python Notes
 
 1. [Introduction](python/[01]-intro.ipynb)
-2. [Methods](python/methods.ipynb)
-3. [Essentials](python/essentials.ipynb)
-4. [Tips](python/tips.ipynb)
-5. [Extras](python/extras.ipynb)
+2. [Methods](python/[02]-methods.ipynb)
+3. [Essentials](python/[03]-essentials.ipynb)
+4. [Tips](python/[04]-tips.ipynb)
+5. [Extras](python/[05]-extras.ipynb)
 
 
 Welcome to my **first repository**! This repo contains notes for the programming languages that I’m currently working on.
