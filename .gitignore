@@ -36,7 +36,6 @@ __pycache__/
 
 # Ignore common IDE and editor files
 .idea/
-.vscode/
 *.sublime-workspace
 *.iml
 
@@ -66,6 +65,8 @@ data/
 datasets/
 
 # Ignore any other specific files or directories you don't want tracked
-# For example, if you have a directory named 'temp' or 'output'
 temp/
 output/
+
+# IGNORE AUDIO FILES
+*.mp3
